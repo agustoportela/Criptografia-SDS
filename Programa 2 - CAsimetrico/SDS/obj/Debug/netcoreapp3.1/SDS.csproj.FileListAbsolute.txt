@@ -1,0 +1,42 @@
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.exe
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.deps.json
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.runtimeconfig.json
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.runtimeconfig.dev.json
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SDS.pdb
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\Snappier.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\ZstdSharp.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Proyectos\SDS\TP final\SDS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.csproj.AssemblyReference.cache
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.EnviarMensaje.resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.Login - Copy (2).resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.Login - Copy - Copy.resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.Login - Copy.resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.Login.resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.Principal.resources
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.csproj.GenerateResource.cache
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.AssemblyInfoInputs.cache
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.AssemblyInfo.cs
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.csproj.CoreCompileInputs.cache
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.csproj.CopyComplete
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.dll
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.pdb
+D:\Proyectos\SDS\TP final\SDS\obj\Debug\netcoreapp3.1\SDS.genruntimeconfig.cache

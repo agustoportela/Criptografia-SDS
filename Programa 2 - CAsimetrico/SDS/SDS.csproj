@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.18.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Login - Copy %282%29.resx">
+      <DependentUpon>Login.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Login - Copy - Copy.resx">
+      <DependentUpon>Login - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Login - Copy.resx">
+      <DependentUpon>Login.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
